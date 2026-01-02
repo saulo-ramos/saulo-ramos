@@ -4,7 +4,8 @@
 
 * 🤔 &nbsp; Experiencia en el uso de **Python** y **SQL** para crear soluciones, con énfasis en **arquitectura de software**.
 * 💡 &nbsp; Mis habilidades incluyen la **optimización de flujos de trabajo** con Web Scraping y APIs, y tengo conocimiento en **gestión de proyectos**.
-* 🎓 &nbsp; Poseo el título de **Tecnólogo en Ciencia de Datos** (5º semestre en curso) y hablo **Portugues nativo**.
+* 🎓 &nbsp; Poseo el título de **Tecnólogo en Ciencia de Datos** y hablo **Portugues nativo**.
+* 🎓 &nbsp; Estoy estudiando un postgrado en **Ingeniaría de Softwares**. 
 
 ---
 

@@ -25,8 +25,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ⚙️ &nbsp;Frameworks y Desarrollo
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![API](https://img.shields.io/badge/API-555555?style=flat&logo=semantic-web&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat&logo=webhook&logoColor=white)
 

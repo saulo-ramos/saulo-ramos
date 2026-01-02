@@ -1,20 +1,4 @@
 ## 👋 &nbsp;¡Hola! Soy Saulo Ramos, Desarrollador de Software.
-### 📈 &nbsp;Estadísticas de GitHub 
-
-<p>
-<a href="https://github.com/saulo-ramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" alt="Estadísticas de Saulo Ramos" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" alt="Lenguajes de Saulo Ramos" />
-</a>
-</p>
-
----
-
-Un programador con experiencia en la creación de soluciones eficientes, enfocado en el desarrollo de software, automatización de procesos y la integración de sistemas. Utilizo mi experiencia en **Python** para optimizar flujos de trabajo con **Web Scraping** y **APIs**.
-
----
-
-
 
 ## 💻 &nbsp;Sobre Mí
 

@@ -14,12 +14,15 @@
 
 ### 🌐 &nbsp;Lenguajes y Core
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🛢 &nbsp;Bases de Datos y SQL
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ⚙️ &nbsp;Frameworks y Desarrollo
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -28,7 +31,6 @@
 ![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat&logo=webhook&logoColor=white)
 
 ### 📊 &nbsp;Business Intelligence y No/Low Code
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![N8n](https://img.shields.io/badge/N8n-FF5733?style=flat&logo=n8n&logoColor=white)
 ![Low Code](https://img.shields.io/badge/No%2FLow%20Code-4B0082?style=flat&labelColor=555555) 
@@ -44,7 +46,5 @@
 
 Para consultas profesionales o colaboraciones, puedes contactarme:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ramos-saulo"><img src="https://img.shields.io/badge/-Saulo%20Ramos-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-ramos/)
 
-</p>
